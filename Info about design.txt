@@ -2,8 +2,10 @@ Lien de Website: https://www.maiz.in/
 
 
 
-Adobe xD, MockFlow
+Outils we are using : Adobe xD, MockFlow
 
-we divided our work into 2 every one of us gonna create 2 pages
+we divided our work into Two every one of us gonna create 2 pages
 Zakaria: Landing Page & Catering
 SIfaw: Nutrition & Menu
+
+Landing Page & nuturation & Catering Have contact and map for franchise except Menu
